@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level1text0">Нуль</string>
+    <string name="level1text1">Один</string>
+    <string name="level1text2">Два</string>
+    <string name="level1text3">Три</string>
+    <string name="level1text4">Чотири</string>
+    <string name="level1text5">П\'ять</string>
+    <string name="level1text6">Шість</string>
+    <string name="level1text7">Сім</string>
+    <string name="level1text8">Вісім</string>
+    <string name="level1text9">Дев\'ять</string>
+
+
+    <string name="level2textmin9">Мінус Дев\'ять</string>
+    <string name="level2textmin8">Мінус Вісім</string>
+    <string name="level2textmin7">Мінус Сім</string>
+    <string name="level2textmin6">Мінус Шість</string>
+    <string name="level2textmin5">Мінус П\'ять</string>
+    <string name="level2textmin4">Мінус Чотири</string>
+    <string name="level2textmin3">Мінус Три</string>
+    <string name="level2textmin2">Мінус Два</string>
+    <string name="level2textmin1">Мінус Один</string>
+    <string name="level2text0">Нуль</string>
+    <string name="level2text1">Один</string>
+    <string name="level2text2">Два</string>
+    <string name="level2text3">Три</string>
+    <string name="level2text4">Чотири</string>
+    <string name="level2text5">П\'ять</string>
+    <string name="level2text6">Шість</string>
+    <string name="level2text7">Сім</string>
+    <string name="level2text8">Вісім</string>
+    <string name="level2text9">Дев\'ять</string>
+
+
+    <string name="level3text0">Один мінус Один</string>
+    <string name="level3text1">Два мінус Один</string>
+    <string name="level3text2">Один плюс Один</string>
+    <string name="level3text3">П\'ять мінус Два</string>
+    <string name="level3text4">Два плюс Два</string>
+    <string name="level3text5">Один плюс Чотири</string>
+    <string name="level3text6">Вісім мінус Два</string>
+    <string name="level3text7">Чотири плюс Три</string>
+    <string name="level3text8">П\'ять плюс Три</string>
+    <string name="level3text9">Чотири плюс П\'ять</string>
+
+
+
+
+
+
+
+    <string name="meallevel1text0">Яблуко</string>
+    <string name="meallevel1text1">Гайка</string>
+    <string name="meallevel1text2">Картопля</string>
+    <string name="meallevel1text3">М\'яч</string>
+    <string name="meallevel1text4">Помідор</string>
+    <string name="meallevel1text5">Телефон</string>
+    <string name="meallevel1text6">Кукурудза</string>
+    <string name="meallevel1text7">Олівці</string>
+    <string name="meallevel1text8">Цибуля</string>
+    <string name="meallevel1text9">Каробка</string>
+    <string name="meallevel1text10">Апельсин</string>
+    <string name="meallevel1text11">Ковзани</string>
+    <string name="meallevel1text12">Арбуз</string>
+    <string name="meallevel1text13">Нитка</string>
+    <string name="meallevel1text14">Лимон</string>
+    <string name="meallevel1text15">Гудзики</string>
+    <string name="meallevel1text16">Виноград</string>
+    <string name="meallevel1text17">Губка</string>
+    <string name="meallevel1text18">Ананас</string>
+    <string name="meallevel1text19">Запальничка</string>
+
+
+</resources>
